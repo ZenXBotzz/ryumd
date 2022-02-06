@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="RYUBOTZ MULTI DEVICE" width="500"/>
+<img src="https://cdn.discordapp.com/attachments/896628071401144330/939852988636332052/SPOILER_13982c79-53f7-4b2e-aacd-6678a9ab43da.png" alt="FuBuK1B0T MULTI DEVICE" width="500"/>
 
 
 </p>
