@@ -3,11 +3,10 @@
 //MENU AWAL
 exports.smenu = (pushname, namabot) => {
 	return`Halo Kak ${pushname} 👋
-Saya ${namabot} Siap Melayani Anda, Bot Ini Memakai Program
-Multi Device Beta Dari WhatsApp Messenger.
+Saya ${namabot} Siap Melayani Anda, Bot ini Di Re-Code Oleh HyLxDzn
 
 Jadi Jika Menemukan Bug Silahkan Laporkan Kepada Owner
-Atau Creator Agar Segera Di Fix 🤗
+Atau Creator Agar Segera Di Fix 
 
 Terima Kasih 🙏
 `
@@ -21,7 +20,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 *Berikut List Menu Yang Tersedia Di ${namabot}*
 
 *Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
-*Owner Atau Creator Agar Segera Di Fix 😎*
+*Owner Atau Creator Agar Segera Di Fix*
 
 *Terima Kasih 🙏*
 `
