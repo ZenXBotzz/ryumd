@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt/Hisoka-Morou"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/ryuukateam/Hisoka-Morou"><img title="Recode" src="https://img.shields.io/badge/Recode--redFuBuK1B0T.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ryuukateam/Hisoka-Morou"><img title="Recode" src="https://img.shields.io/badge/Recode-FuBuK1B0T-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ryuukateam/Hisoka-Morou"><img title="Followers" src="https://img.shields.io/github/followers/ryuukateam?color=blue&style=flat-square"></a>
