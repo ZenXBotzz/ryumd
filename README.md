@@ -23,10 +23,9 @@
 This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Ryuuka Team`](https://github.com/ryuukateam/Hisoka-Morou) You Can Get The Edited Script In Channel [`Ryuuka Botz`](https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA)
 
 ## Connect With Me 🌱
-Github : [`Ryuuka Team Github`](https://github.com/ryuukateam/Hisoka-Morou)
-Youtube : [`Ryuuka Team Youtube`](https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA)
-WhatsApp : [`Ryuuka Team Contact`](wa.me/6285609233482)
-Group WhatsApp : [`Ryuuka Team Group Ofc`](https://chat.whatsapp.com/KYFdPsjHKIr5ToVIqOAunE)
+Github : [`HeyLexDzn Github`](https://github.com/HeyLexDzn)
+Youtube : [`HeyLex Youtube`](https://youtube.com/channel/UCW7s6btgEvt7TPd2FcEwL-w)
+WhatsApp : [`Owner FuBuK1B0T `](wa.me/6285892952944)
 
 ## Support Me
 * [`Saweria`](https://saweria.co/HyLx)
